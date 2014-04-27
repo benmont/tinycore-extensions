@@ -1,4 +1,5 @@
 #!/bin/sh
+tce-load -i python-distribute &>/dev/null
 cd /tmp/s3cmd
 export S3CMD_PACKAGING=0
 sudo python setup.py build
