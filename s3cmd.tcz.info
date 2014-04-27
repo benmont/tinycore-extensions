@@ -1,0 +1,12 @@
+Title:          s3cmd.tcz
+Description:    s3cmd
+Version:        v1.5.0-beta1
+Author:         Michal Ludvig <michal@logix.cz> 
+Original-site:  http://s3tools.org
+Copying-policy: GPLv2 
+Size:		4.0K
+Extension_by:   Michael Phillips
+Comments:       ----
+Change-log:     2014/04/27
+Current:        2014/04/27
+
