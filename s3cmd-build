@@ -1,3 +1,4 @@
 #!/bin/sh
 cd /tmp/s3cmd
-sudo python setup.py install
+export S3CMD_PACKAGING=0
+sudo python setup.py build

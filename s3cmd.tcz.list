@@ -35,8 +35,3 @@
 /usr/local/lib/python2.7/site-packages/S3/FileLists.pyc
 /usr/local/lib/python2.7/site-packages/S3/PkgInfo.pyc
 /usr/local/bin/s3cmd
-/usr/local/share/doc/packages/s3cmd/README
-/usr/local/share/doc/packages/s3cmd/INSTALL
-/usr/local/share/doc/packages/s3cmd/NEWS
-/usr/local/share/man/man1/s3cmd.1
-/usr/local/lib/python2.7/site-packages/s3cmd-1.5.0_beta1-py2.7.egg-info
